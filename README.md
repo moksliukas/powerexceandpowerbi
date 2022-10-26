@@ -1,4 +1,4 @@
-# powerexceandpowerbi
+# MS Power Excel ir Power BI
 paprastos užduotėlės su MS Power Excel ir Power BI
 Čia bus skelbiamos įvairios programėlės, užduotys darbui su Power Excel arba Power BI.
 
