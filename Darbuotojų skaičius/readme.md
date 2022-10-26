@@ -10,3 +10,5 @@ Dar galimos ir kitų poreikių variacijos - kiek dirbo iki konkrečios dienos, k
 
 Šios užduoties sudėtingumą, pagal savo vertinimo skalę, vertinčiau kaip vidutinio sudėtingumo.
 
+Sprendimas bus apskelbtas šiek tiek vėliau.
+
