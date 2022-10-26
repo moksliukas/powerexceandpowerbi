@@ -6,5 +6,7 @@
 
 Kodėl įdėjau šį uždavinį? Dabar spaudoje skamba, kad naikiname matematikos egzaminą, mokiniai sako, kad niekur jos nepritaikysi ir pan. Tai šios problemos sprendimui reikia 4-5 klasės matematikos žinių, logikos ir DAX žinių. 
 
-Šios užduoties sudėtingumą, pagal savo vertinimo skalę, vertinčiau kaip vidutinio sudėtingumo.
 Dar galimos ir kitų poreikių variacijos - kiek dirbo iki konkrečios dienos, kiek dirbo konkrečią dieną, atleistų/priimtų darbuotojų pokytis ir pan.
+
+Šios užduoties sudėtingumą, pagal savo vertinimo skalę, vertinčiau kaip vidutinio sudėtingumo.
+
