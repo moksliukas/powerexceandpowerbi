@@ -9,6 +9,3 @@ Kodėl įdėjau šį uždavinį? Dabar spaudoje skamba, kad naikiname matematiko
 Dar galimos ir kitų poreikių variacijos - kiek dirbo iki konkrečios dienos, kiek dirbo konkrečią dieną, atleistų/priimtų darbuotojų pokytis ir pan.
 
 Šios užduoties sudėtingumą, pagal savo vertinimo skalę, vertinčiau kaip vidutinio sudėtingumo.
-
-Sprendimas bus paskelbtas šiek tiek vėliau.
-
